@@ -1,3 +1,7 @@
 .Weather {
   border: 2px solid #00c2c2;
 }
+
+.Weather h1 {
+  color: #000000;
+}
