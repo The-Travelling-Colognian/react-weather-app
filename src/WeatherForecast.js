@@ -8,8 +8,6 @@ export default function WeatherForecast(props) {
     console.log(response.data);
   }
 
-  console.log(props);
-
   let apiKey = "592ec9fec843be6f39db84cfa93ed174";
   let longitude = props.coordinates.lon;
   let latitude = props.coordinates.lat;
