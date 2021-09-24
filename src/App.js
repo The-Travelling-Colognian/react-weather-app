@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://modest-lamarr-257cde.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Vanessa Schade
           </a>{" "}
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/The-Travelling-Colognian/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
@@ -28,7 +28,7 @@ export default function App() {
           <a
             href="https://competent-almeida-bddaf5.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             {" "}
             hosted on Netlify
