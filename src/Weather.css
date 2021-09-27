@@ -4,7 +4,7 @@
   box-shadow: 0px 30px 50px rgb(158, 247, 233);
   border-radius: 16px;
   padding: 40px;
-  color: #878787;
+  color: #272142;
 }
 
 .Weather form {
@@ -80,6 +80,12 @@
 
 .Weather canvas {
   margin-right: 10px 0;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.Weather .icon {
+  color: #b8ffe9;
 }
 
 .Weather .unit {
@@ -94,5 +100,5 @@
 
 a {
   text-decoration: none;
-  color: #272142;
+  color: #b8ffe9;
 }
