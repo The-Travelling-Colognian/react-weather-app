@@ -33,6 +33,15 @@ export default function App() {
             {" "}
             hosted on Netlify
           </a>
+          <a
+            href="https://codepen.io/P1N2O/pen/pyBNzX"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <br />
+            Animated background
+          </a>{" "}
+          by Developer Manuel Pinto
         </footer>
       </div>
     </div>
