@@ -41,7 +41,7 @@ export default function App() {
             <br />
             Animated background
           </a>{" "}
-          by Developer Manuel Pinto
+          by Manuel Pinto
         </footer>
       </div>
     </div>
