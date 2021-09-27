@@ -78,14 +78,15 @@
   line-height: 64px;
 }
 
-.Weather canvas {
-  margin-right: 10px 0;
-  margin-top: 15px;
+.Weather-icon canvas {
+  margin-right: -83px;
+  margin-top: -40px;
   margin-bottom: 15px;
 }
 
 .Weather .icon {
   color: #b8ffe9;
+  float: right;
 }
 
 .Weather .unit {
@@ -95,10 +96,16 @@
   font-weight: normal;
   position: relative;
   line-height: 1;
+  margin-left: 15px;
+  margin-right: 10px;
   top: -34px;
 }
 
 a {
   text-decoration: none;
   color: #b8ffe9;
+}
+
+.float-right {
+  float: right;
 }
