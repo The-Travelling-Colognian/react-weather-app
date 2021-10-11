@@ -108,3 +108,26 @@ a {
 .float-right {
   float: right;
 }
+
+@media (max-width: 400px) {
+  .Weather h1 {
+    font-size: 26px;
+  }
+
+  .Weather li {
+    font-size: 14px;
+  }
+
+  .Weather .temperature {
+    font-size: 35px;
+    margin-top: -12px;
+    margin-right: -10px;
+    margin-right: -25px;
+  }
+
+  .Weather .unit {
+    font-size: 12px;
+    top: -20px;
+    right: -15px;
+  }
+}

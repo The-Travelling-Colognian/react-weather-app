@@ -31,3 +31,10 @@ body {
 .App footer a {
   color: #fff;
 }
+
+@media (max-width: 400px) {
+  .App footer {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+}
