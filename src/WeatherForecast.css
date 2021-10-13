@@ -9,9 +9,3 @@
   opacity: 0.8;
   margin-left: 10px;
 }
-
-@media (max-width: 400px) {
-  .Weather-Forecast {
-    margin-bottom: 20px;
-  }
-}
