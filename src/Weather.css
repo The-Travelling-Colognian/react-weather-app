@@ -111,11 +111,11 @@ a {
 
 @media (max-width: 400px) {
   .Weather .search-input {
-    font-size: 12px;
+    font-size: 13px;
   }
 
   .Weather .btn {
-    font-size: 12px;
+    font-size: 13px;
   }
 
   .Weather h1 {
