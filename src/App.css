@@ -32,15 +32,9 @@ body {
   color: #fff;
 }
 
-@media (max-width: 400px) {
+@media (min-width: 280px) {
   .App footer {
     font-size: 14px;
     padding-bottom: 20px;
-  }
-}
-
-@media (max-width: 1024px) {
-  .App footer {
-    font-size: 18px;
   }
 }
