@@ -109,13 +109,13 @@ a {
   float: right;
 }
 
-@media (min-width: 280px) {
+@media (min-width: 280px) and (max-width: 400px) {
   .Weather .search-input {
     font-size: 13px;
   }
 
   .Weather .btn {
-    font-size: 13px;
+    font-size: 12px;
   }
 
   .Weather h1 {

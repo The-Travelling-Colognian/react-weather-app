@@ -33,15 +33,6 @@ export default function App() {
             {" "}
             hosted on Netlify
           </a>
-          <br />
-          Also check out my{" "}
-          <a
-            href="https://infallible-visvesvaraya-096ea3.netlify.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Dictionary App
-          </a>
           <a
             href="https://codepen.io/P1N2O/pen/pyBNzX"
             target="_blank"
